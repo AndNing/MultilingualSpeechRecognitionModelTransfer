@@ -1,0 +1,11 @@
+cv-corpus-7.0-singleword
+
+logs
+
+.idea
+
+savedmodels
+
+savedcheckpoints*
+
+*.zip
